@@ -12,3 +12,5 @@ Note: you have to populate the subscriptions.txt file with lines of subscription
 6.7 - Ensure that Public IP addresses are Evaluated on a Periodic Basis (lists the addresses)
 
 7.4 - Ensure that 'Unattached disks' are encrypted with 'Customer Managed Key' (CMK) (lists unattached disks)
+
+10.1 - Ensure that Resource Locks are set for Mission-Critical Azure Resources
