@@ -14,9 +14,11 @@ Note: you have to populate the subscriptions.txt file with lines of subscription
 7.4 - Ensure that 'Unattached disks' are encrypted with 'Customer Managed Key' (CMK) (lists unattached disks)
 
 8.2 - Ensure that the Expiration Date is set for all Keys in Non-RBAC Key Vaults (usually all key vaults will be RBAC enabled, 
-making this control non-applicable. The script lists the RBAC and non-RBAC Key Vaults)
+making this control non-applicable. One script lists the RBAC and non-RBAC Key Vaults, then there's an **untested** script
+for listing the non-expiring keys)
 
 8.4 - Ensure that the Expiration Date is set for all Secrets in Non-RBAC Key Vaults (usually all key vaults will be RBAC enabled, 
-making this control non-applicable. The script lists the RBAC and non-RBAC Key Vaults)
+making this control non-applicable. One script lists the RBAC and non-RBAC Key Vaults, then there's an **untested** script
+for listing the non-expiring secrets)
 
 10.1 - Ensure that Resource Locks are set for Mission-Critical Azure Resources
