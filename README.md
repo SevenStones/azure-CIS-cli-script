@@ -17,6 +17,9 @@ Note: you have to populate the subscriptions.txt file with lines of subscription
 making this control non-applicable. One script lists the RBAC and non-RBAC Key Vaults, then there's an **untested** script
 for listing the non-expiring keys)
 
+8.3 - Ensure that the Expiration Date is set for all Secrets in RBAC Key Vaults. The script is untested because of a lack of access
+to a test key vault(s).
+
 8.4 - Ensure that the Expiration Date is set for all Secrets in Non-RBAC Key Vaults (usually all key vaults will be RBAC enabled, 
 making this control non-applicable. One script lists the RBAC and non-RBAC Key Vaults, then there's an **untested** script
 for listing the non-expiring secrets)
