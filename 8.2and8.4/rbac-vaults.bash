@@ -1,4 +1,8 @@
 #!/bin/bash
+# Ian Tibble - 8th September 2023
+#
+# Read subscription IDs from a text file in the same directory, named "subscriptions.txt"
+# and list the keyvaults. 
 
 while IFS= read -r sub; do
     # Skip empty lines
