@@ -3,6 +3,10 @@ Various BASH cli scripts for Azure CIS Benchmarks 2.0
 
 Note: you have to populate the subscriptions.txt file with lines of subscription IDs. 
 
+1.4, 1.5 – Review Guest Users – script list the Guest users configured in Entra
+
+1.23 – Ensure That No Custom Subscription Administrator Roles Exist
+
 3.10 - Ensure Private Endpoints are used to access Storage Accounts
 
 3.2 - Ensure that ‘Enable Infrastructure Encryption’ for Each Storage Account in Azure Storage is Set to ‘enabled’
