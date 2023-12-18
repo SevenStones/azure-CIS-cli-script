@@ -1,0 +1,137 @@
+iantibble@LNLP8561:/mnt/c/Users/TIBBLEI/OneDrive - Allen & Overy LLP/Documents/azure platform audit findings/1.5/3.1$ ./storage-accounts-secure-transfer.bash
+Checking subscription: e268d8d7-a6ed-420c-9764-e453da4cb06c
+Storage Account: stplatusetfirewall01, Resource Group: rg-plat-uset-firewall
+Secure Transfer Required: true
+Storage Account: stplatusetnsgflowlogs01, Resource Group: rg-plat-uset-network
+Secure Transfer Required: true
+Storage Account: stplatusetsdwan01, Resource Group: rg-plat-uset-sdwan
+Secure Transfer Required: true
+Storage Account: stplatuswsfirewall01, Resource Group: rg-plat-usws-firewall
+Secure Transfer Required: true
+Storage Account: stplatuswsnsgflowlogs01, Resource Group: rg-plat-usws-network
+Secure Transfer Required: true
+Storage Account: stplatuswssdwan01, Resource Group: rg-plat-usws-sdwan
+Secure Transfer Required: true
+Storage Account: stplatasetfirewall01, Resource Group: rg-plat-aset-firewall
+Secure Transfer Required: true
+Storage Account: stplatasetnsgflowlogs01, Resource Group: rg-plat-aset-network
+Secure Transfer Required: true
+Storage Account: stplatasetsdwan01, Resource Group: rg-plat-aset-sdwan
+Secure Transfer Required: true
+Storage Account: stplatassefirewall01, Resource Group: rg-plat-asse-firewall
+Secure Transfer Required: true
+Storage Account: stplatassensgflowlogs01, Resource Group: rg-plat-asse-network
+Secure Transfer Required: true
+Storage Account: stplatassesdwan01, Resource Group: rg-plat-asse-sdwan
+Secure Transfer Required: true
+Storage Account: stplatjpetfirewall01, Resource Group: rg-plat-jpet-firewall
+Secure Transfer Required: true
+Storage Account: stplatjpetnsgflowlogs01, Resource Group: rg-plat-jpet-network
+Secure Transfer Required: true
+Storage Account: stplatjpetsdwan01, Resource Group: rg-plat-jpet-sdwan
+Secure Transfer Required: true
+Storage Account: stplatauetfirewall01, Resource Group: rg-plat-auet-firewall
+Secure Transfer Required: true
+Storage Account: stplatauetnsgflowlogs01, Resource Group: rg-plat-auet-network
+Secure Transfer Required: true
+Storage Account: stplatauetsdwan01, Resource Group: rg-plat-auet-sdwan
+Secure Transfer Required: true
+Storage Account: stplatausefirewall01, Resource Group: rg-plat-ause-firewall
+Secure Transfer Required: true
+Storage Account: stplatausensgflowlogs01, Resource Group: rg-plat-ause-network
+Secure Transfer Required: true
+Storage Account: stplatausesdwan01, Resource Group: rg-plat-ause-sdwan
+Secure Transfer Required: true
+Storage Account: stplatukstfirewall01, Resource Group: rg-plat-ukst-firewall
+Secure Transfer Required: true
+Storage Account: stplatukstnsgflowlogs01, Resource Group: rg-plat-ukst-network
+Secure Transfer Required: true
+Storage Account: stplatukstpanoramaconf01, Resource Group: rg-plat-ukst-firewall
+Secure Transfer Required: true
+Storage Account: stplatukwsfirewall01, Resource Group: rg-plat-ukws-firewall
+Secure Transfer Required: true
+Storage Account: stplatukwsnsgflowlogs01, Resource Group: rg-plat-ukws-network
+Secure Transfer Required: true
+Storage Account: stplatusw3firewall01, Resource Group: rg-plat-usw3-firewall
+Secure Transfer Required: true
+Storage Account: stplatusw3nsgflowlogs01, Resource Group: rg-plat-usw3-network
+Secure Transfer Required: true
+Storage Account: stplatusw3sdwan01, Resource Group: rg-plat-usw3-sdwan
+Secure Transfer Required: true
+Checking subscription: 228915b9-46d9-4421-8ab5-157d9277b522
+Storage Account: stdevlukstsiemcol02, Resource Group: rg-devl-ukst-siem-collector
+Secure Transfer Required: true
+Storage Account: stplatukstadoagentvm01, Resource Group: rg-plat-ukst-devops-agent
+Secure Transfer Required: true
+Storage Account: stplatukstansible01, Resource Group: rg-plat-ukst-ansible
+Secure Transfer Required: true
+Storage Account: stplatukstavs01, Resource Group: rg-plat-ukst-avs
+Secure Transfer Required: true
+Storage Account: stplatukstbmc01, Resource Group: rg-plat-ukst-bmc
+Secure Transfer Required: true
+Storage Account: stplatukstdocs01, Resource Group: rg-plat-ukst-documentation
+Secure Transfer Required: true
+Storage Account: stplatukstelk01, Resource Group: rg-plat-ukst-elk
+Secure Transfer Required: true
+Storage Account: stplatukstelk02, Resource Group: rg-plat-ukst-elk
+Secure Transfer Required: true
+Storage Account: stplatukstmanagement02, Resource Group: rg-plat-ukst-management
+Secure Transfer Required: true
+Storage Account: stplatukstpostscripts01, Resource Group: rg-plat-ukst-devops
+Secure Transfer Required: true
+Storage Account: stplatukstqualys01, Resource Group: rg-plat-ukst-qualys
+Secure Transfer Required: true
+Storage Account: stplatukstsiemcol01, Resource Group: rg-plat-ukst-siem-collector
+Secure Transfer Required: true
+Checking subscription: e86de517-eebe-491c-bce7-b795b71d97db
+Storage Account: stplatusetadds01, Resource Group: rg-plat-uset-adds
+Secure Transfer Required: true
+Storage Account: stplatuswsadds01, Resource Group: rg-plat-usws-adds
+Secure Transfer Required: true
+Storage Account: stplatasetadds01, Resource Group: rg-plat-aset-adds
+Secure Transfer Required: true
+Storage Account: stplatasseadds01, Resource Group: rg-plat-asse-adds
+Secure Transfer Required: true
+Storage Account: stplatjpetadds01, Resource Group: rg-plat-jpet-adds
+Secure Transfer Required: true
+Storage Account: stplatauetadds01, Resource Group: rg-plat-auet-adds
+Secure Transfer Required: true
+Storage Account: stplatauseadds01, Resource Group: rg-plat-ause-adds
+Secure Transfer Required: true
+Storage Account: stplatukstadds01, Resource Group: rg-plat-ukst-adds
+Secure Transfer Required: true
+Storage Account: stplatukwsadds01, Resource Group: rg-plat-ukws-adds
+Secure Transfer Required: true
+Storage Account: stplatusw3adds01, Resource Group: rg-plat-usw3-adds
+Secure Transfer Required: true
+Checking subscription: 09d999b6-67a9-4cee-b580-3fd71fd24d4d
+Storage Account: stplatasetbackup01, Resource Group: rg-plat-aset-storage
+Secure Transfer Required: true
+Storage Account: stplatasetbackupdiags01, Resource Group: rg-plat-aset-storage
+Secure Transfer Required: true
+Storage Account: stplatassebackup01, Resource Group: rg-plat-asse-storage
+Secure Transfer Required: true
+Storage Account: stplatassebackupdiags01, Resource Group: rg-plat-asse-storage
+Secure Transfer Required: true
+Storage Account: stplatjpetbackup01, Resource Group: rg-plat-jpet-storage
+Secure Transfer Required: true
+Storage Account: stplatjpetbackupdiags01, Resource Group: rg-plat-jpet-storage
+Secure Transfer Required: true
+Storage Account: stplatauetbackup01, Resource Group: rg-plat-auet-storage
+Secure Transfer Required: true
+Storage Account: stplatauetbackupdiags01, Resource Group: rg-plat-auet-storage
+Secure Transfer Required: true
+Storage Account: stplatausebackup01, Resource Group: rg-plat-ause-storage
+Secure Transfer Required: true
+Storage Account: stplatausebackupdiags01, Resource Group: rg-plat-ause-storage
+Secure Transfer Required: true
+Storage Account: stplatukstbackup01, Resource Group: rg-plat-ukst-storage
+Secure Transfer Required: true
+Storage Account: stplatukstbackupdiags01, Resource Group: rg-plat-ukst-storage
+Secure Transfer Required: true
+Storage Account: stplatukstbackupdiags02, Resource Group: rg-plat-ukst-management
+Secure Transfer Required: true
+Storage Account: stplatukwsbackup01, Resource Group: rg-plat-ukws-storage
+Secure Transfer Required: true
+Storage Account: stplatukwsbackupdiags01, Resource Group: rg-plat-ukws-storage
+Secure Transfer Required: true

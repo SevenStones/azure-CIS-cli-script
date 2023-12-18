@@ -1,0 +1,3 @@
+Subscription Name: backup, Subscription ID: 09d999b6-67a9-4cee-b580-3fd71fd24d4d, Storage Account: stplatukstbackupdiags02, Soft Delete Status: false
+Subscription Name: management, Subscription ID: 228915b9-46d9-4421-8ab5-157d9277b522, Storage Account: stplatukstsiemcol01, Soft Delete Status: false
+Subscription Name: management, Subscription ID: 228915b9-46d9-4421-8ab5-157d9277b522, Storage Account: stdevlukstsiemcol02, Soft Delete Status: false

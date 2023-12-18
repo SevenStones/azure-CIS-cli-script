@@ -1,0 +1,401 @@
+iantibble@LNLP8561:/mnt/c/Users/TIBBLEI/OneDrive - Allen & Overy LLP/Documents/azure platform audit findings/1.5/5.1.6$ ./nsg-flow-log-retention-periods-5-1-6.bash
+Checking NSG Flow Logs in subscription connectivity (e268d8d7-a6ed-420c-9764-e453da4cb06c)
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-AzureBastionSubnet (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoExternal-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInboundLB-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInternal-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoManagement-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoOutboundLB-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-privateEndpoints-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanLan-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanMgmt-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanWan-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-AzureBastionSubnet (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoExternal-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInboundLB-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInternal-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoManagement-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoOutboundLB-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-privateEndpoints-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanLan-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanMgmt-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanWan-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-AzureBastionSubnet (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoExternal-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInboundLB-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInternal-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoManagement-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoOutboundLB-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-privateEndpoints-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanLan-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanMgmt-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanWan-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-AzureBastionSubnet (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoExternal-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInboundLB-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInternal-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoManagement-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoOutboundLB-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-privateEndpoints-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanLan-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanMgmt-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanWan-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-AzureBastionSubnet (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoExternal-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInboundLB-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInternal-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoManagement-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoOutboundLB-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-privateEndpoints-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanLan-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanMgmt-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanWan-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-AzureBastionSubnet (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoExternal-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInboundLB-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInternal-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoManagement-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoOutboundLB-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-privateEndpoints-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanLan-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanMgmt-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanWan-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-AzureBastionSubnet (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoExternal-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInboundLB-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInternal-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoManagement-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoOutboundLB-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-privateEndpoints-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanLan-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanMgmt-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanWan-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-AzureBastionSubnet (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoExternal-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInboundLB-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInternal-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoManagement-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoOutboundLB-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-privateEndpoints-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-AzureBastionSubnet (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoExternal-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInboundLB-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInternal-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoManagement-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoOutboundLB-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-privateEndpoints-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-AzureBastionSubnet (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoExternal-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInboundLB-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoInternal-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoManagement-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-paloAltoOutboundLB-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-privateEndpoints-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanLan-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanMgmt-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-sdwanWan-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True      30
+Checking NSG Flow Logs in subscription management (228915b9-46d9-4421-8ab5-157d9277b522)
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-commvaultNprd-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-commvaultProd-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-eventHub-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-management-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-monitoring-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-siem-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True  30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-commvaultNprd-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-commvaultProd-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-eventHub-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-management-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-monitoring-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-siem-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True  30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-eventHub-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-management-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-monitoring-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-siem-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True  30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-commvaultNprd-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: False        0
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-commvaultProd-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: False        0
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-eventHub-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-management-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-monitoring-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-siem-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True  30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-eventHub-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-management-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-monitoring-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-siem-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True  30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-eventHub-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-management-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-monitoring-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-siem-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True  30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-eventHub-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-management-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-monitoring-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-siem-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True  30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-agw-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True   30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-bmc-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True   30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-commvaultNprd-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-commvaultProd-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-documentationSite-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-eventHub-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-jumpbox-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-management-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-monitoring-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-monitoring-devl-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-pe-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-qualys-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True        30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-siem-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True  30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-UKST1DXSEC002D (Resource Group: rg-devl-ukst-siem-collector) - Flow Log Retention Period: False        0
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-adoagent-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-agw-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True   30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-AzureBastionSubnet (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: False      0
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-bmc-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True   30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-commvaultNprd-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-commvaultProd-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-documentationSite-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True     30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-domainServices-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True        30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-eventHub-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-jumpbox-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-management-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-monitoring-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-monitoring-devl-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-pe-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-qualys-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True        30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-siem-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True  30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-UKST1DXSEC003 (Resource Group: rg-plat-ukst-siem-collector) - Flow Log Retention Period: False 0
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-UKST1DXSEC004 (Resource Group: rg-plat-ukst-siem-collector) - Flow Log Retention Period: False 0
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-eventHub-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-management-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-monitoring-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-siem-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True  30
+Checking NSG Flow Logs in subscription identity (e86de517-eebe-491c-bce7-b795b71d97db)
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-identity-01 (Resource Group: rg-plat-usws-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-identity-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-identity-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-identity-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-identity-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-identity-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-identity-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-identity-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-identity-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True      30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-identity-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True      30
+Checking NSG Flow Logs in subscription backup (09d999b6-67a9-4cee-b580-3fd71fd24d4d)
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-agents-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True        30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-media-01 (Resource Group: rg-plat-uset-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-agents-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True        30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-media-01 (Resource Group: rg-plat-aset-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-agents-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True        30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-control-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-media-01 (Resource Group: rg-plat-asse-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-agents-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True        30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-media-01 (Resource Group: rg-plat-jpet-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-agents-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True        30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-media-01 (Resource Group: rg-plat-auet-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-agents-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True        30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-media-01 (Resource Group: rg-plat-ause-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-agents-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True        30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-control-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-management-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-media-01 (Resource Group: rg-plat-ukws-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-agents-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True        30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-appgateway-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-control-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True       30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-management-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True    30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-media-01 (Resource Group: rg-plat-ukst-network) - Flow Log Retention Period: True 30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-agents-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True        30
+WARNING: Argument 'nsg' has been deprecated and will be removed in a future release. Use '--location and --name combination' instead.
+NSG: nsg-snet-media-01 (Resource Group: rg-plat-usw3-network) - Flow Log Retention Period: True 30
